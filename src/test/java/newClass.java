@@ -1,4 +1,4 @@
 public class newClass {
 
-    private static final int NUMBER = 185;
+    int variable = 50;
 }
